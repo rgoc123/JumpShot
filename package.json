@@ -1,0 +1,26 @@
+{
+  "name": "jumpshot",
+  "version": "1.0.0",
+  "description": "MVPs Jumpshot is an app that blends basketball and JavaScript together for maximum fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgoc123/JumpShot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgoc123/JumpShot/issues"
+  },
+  "homepage": "https://github.com/rgoc123/JumpShot#readme",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  }
+}
