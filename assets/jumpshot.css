@@ -1,7 +1,38 @@
+.background {
+  background: url("./arena.jpg");
+  width: 1200px;
+  height: 596px;
+  display: flex;
+}
+
+.left {
+  width: 600px;
+  height: 596px;
+  position: relative;
+}
+
+.rules {
+  background: white;
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  right: 117px;
+  top: 67px;
+}
+
+.right {
+  width: 600px;
+  height: 596px;
+  position: relative;
+}
+
 #game-canvas {
   border: 1px solid black;
   width: 260px;
   height: 450px;
+  position: absolute;
+  left: 117px;
+  top: 67px;
 }
 
 canvas {

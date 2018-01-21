@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>JumpShot</title>
+    <title>JUMPSHOT</title>
     <link rel="stylesheet" href="./assets/jumpshot.css">
     <style media="screen">
       canvas {
@@ -11,8 +11,25 @@
     </style>
   </head>
   <body>
-    <h1>This works</h1>
-    <canvas id="game-canvas"></canvas>
+    <h1>JUMPSHOT</h1>
+    <div class="background">
+
+      <div class="left">
+        <!-- PLACEHOLDER -->
+        <div class="rules">
+          <p>Welcome to JumpShot!</p>
+          <p>Goal: Score as many points as you can by moving the basketball on to platforms. Get 10 points for every platform you land on, and level up with 200 points! But be careful: the platforms get smaller with each level.</p>
+          <p>Don't let the ball drop to the bottom!</p>
+          <p>Press Enter to start!</p>
+        </div>
+      </div>
+
+      <div class="right">
+        <canvas id="game-canvas"></canvas>
+      </div>
+
+    </div>
+
     <script src="./lib/bundle.js"></script>
   </body>
 </html>
