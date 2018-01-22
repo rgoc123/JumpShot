@@ -1,10 +1,12 @@
-# Jumpshot
+# JumpShot
+
+[Play JumpShot!](http://robertoconnor.io/JumpShot/)
 
 ### MVPs
-Jumpshot is an app that blends basketball and JavaScript together for maximum fun. The goal of the game is keep the ball bouncing higher and pass through hoops to score extra points. Don't go out of bounds!
+JumpShot is an app that blends basketball and JavaScript together for maximum fun. The goal of the game is keep the ball bouncing higher and pass through hoops to score extra points. Don't go out of bounds!
 
 ### Technologies
-Jumpshot utilizes vanilla JavaScript, HTML, CSS, and jQuery.
+JumpShot utilizes vanilla JavaScript, HTML, CSS, and jQuery.
 
 ### Timeline
 ##### Phase 1 (Day 1 - 2)
