@@ -10,10 +10,15 @@ h1 {
   text-align: center
 }
 
+.main {
+  background: gray;
+}
+
 .background {
   background: url("./arena.jpg");
   width: 1200px;
   height: 596px;
+  margin: 15px auto;
   /* display: flex; */
 }
 
@@ -32,7 +37,7 @@ h1 {
 .rules {
   background-color: rgba(255,255,255,0.8);
   width: 300px;
-  height: 300px;
+  height: 345px;
   position: absolute;
   right: 20px;
   top: 15px;
