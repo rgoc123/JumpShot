@@ -11,7 +11,7 @@ JumpShot is an app that blends basketball and JavaScript together for maximum fu
 ### Gameplay
 After pressing enter to start, the player uses the left and right arrows to keep the basketball bouncing on platforms. Every new platform reached adds ten points to the score, and new levels are achieved every 200 points. But be careful! The platforms get smaller every level, and just like with the sport the ball can't go out of bounds.
 
-![alt text](./assets/jumpshot.gif)
+![alt text](./assets/jumpshot2.gif)
 
 ### Technologies
 JumpShot utilizes HTML's Canvas to render interactive objects on the screen. JavaScript and jQuery create the game cycle, physics, and points and bounds logic.
